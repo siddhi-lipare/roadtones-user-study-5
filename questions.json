@@ -1,0 +1,165 @@
+{
+  "part1_questions": [
+    {
+      "id": "tone_relevance",
+      "text": "How {} does the caption sound?"
+    },
+    {
+      "id": "style_relevance",
+      "default_text": "How {} is the caption's style?",
+      "default_options": [
+        "Not at all",
+        "Weak",
+        "Moderate",
+        "Strong",
+        "Very Strong"
+      ],
+      "overrides": {
+        "Exaggeration": {
+          "text": "How strongly does the caption use <b class='highlight-trait'>Exaggeration</b>?",
+          "options": [
+            "Not at all",
+            "Slightly",
+            "Moderately",
+            "Strongly",
+            "Very Strongly"
+          ]
+        },
+        "CallToAction": {
+          "text": "How strongly does the caption use a <b class='highlight-trait'>CallToAction</b>?",
+          "options": [
+            "Not at all",
+            "Subtly",
+            "Moderately",
+            "Strongly",
+            "Very Directly"
+          ]
+        },
+        "Rhetorical Question": {
+          "text": "How strongly does the caption use a <b class='highlight-trait'>Rhetorical Question</b>?",
+          "options": [
+            "Not at all",
+            "Subtly",
+            "Moderately",
+            "Strongly",
+            "Very Strongly"
+          ]
+        },
+        "Pop Culture References": {
+          "text": "How strongly does the caption use <b class='highlight-trait'>Pop Culture References</b>?",
+          "options": [
+            "Not at all",
+            "Subtly",
+            "Moderately",
+            "Strongly",
+            "Very Strongly"
+          ]
+        },
+        "Analogy": {
+          "text": "How strongly does the caption use an <b class='highlight-trait'>Analogy</b>?",
+          "options": [
+            "Not at all",
+            "Subtly",
+            "Moderately",
+            "Strongly",
+            "Very Strongly"
+          ]
+        },
+        "Metaphorical": {
+          "text": "How strongly does the caption use <b class='highlight-trait'>Metaphorical</b> language?",
+          "options": [
+            "Not at all",
+            "Subtly",
+            "Moderately",
+            "Strongly",
+            "Very Strongly"
+          ]
+        },
+        "Proverbial": {
+          "text": "How strongly does the caption use a <b class='highlight-trait'>Proverbial</b> saying?",
+          "options": [
+            "Not at all",
+            "Subtly",
+            "Moderately",
+            "Strongly",
+            "Very Strongly"
+          ]
+        },
+        "Understatement": {
+          "text": "How strongly does the caption use <b class='highlight-trait'>Understatement</b>?",
+          "options": [
+            "Not at all",
+            "Subtly",
+            "Moderately",
+            "Strongly",
+            "Very Strongly"
+          ]
+        }
+      }
+    },
+    {
+      "id": "overall_relevance",
+      "text": "To what extent is the author's tone and style relevant for the given video content?"
+    },
+    {
+      "id": "factual_consistency",
+      "text": "How factually accurate is the caption (refer to video and summary)?"
+    },
+    {
+      "id": "usefulness",
+      "text": "How useful would this caption be for {}?"
+    },
+    {
+      "id": "human_likeness",
+      "text": "How human-like does this caption sound?"
+    }
+  ],
+  "part3_questions": [
+    {
+      "id": "q1_tone",
+      "text": "Which caption sounds more {}?"
+    },
+    {
+      "id": "q2_style",
+      "default_text": "Which caption's style is more {}?",
+      "overrides": {
+        "Exaggeration": {
+          "text": "Which caption uses <b class='highlight-trait'>Exaggeration</b> more strongly?"
+        },
+        "CallToAction": {
+          "text": "Which caption uses a <b class='highlight-trait'>CallToAction</b> more strongly/directly?"
+        },
+        "Rhetorical Question": {
+          "text": "Which caption uses a <b class='highlight-trait'>Rhetorical Question</b> more strongly?"
+        },
+        "Pop Culture References": {
+          "text": "Which caption uses a <b class='highlight-trait'>Pop Culture Reference</b> more strongly?"
+        },
+        "Analogy": {
+          "text": "Which caption uses an <b class='highlight-trait'>Analogy</b> more strongly?"
+        },
+        "Metaphorical": {
+          "text": "Which caption uses <b class='highlight-trait'>Metaphorical</b> language more strongly?"
+        },
+        "Proverbial": {
+          "text": "Which caption uses a <b class='highlight-trait'>Proverbial</b> saying more strongly?"
+        },
+        "Understatement": {
+          "text": "Which caption uses <b class='highlight-trait'>Understatement</b> more strongly?"
+        }
+      }
+    },
+    {
+      "id": "q3_accuracy",
+      "text": "Which caption is more factually accurate based on the video summary?"
+    },
+    {
+      "id": "q4_preference",
+      "text": "Which caption sounds more human-like to you?"
+    }
+  ],
+  "part2_questions": {
+    "Tone": "Has the {} level {change_type} from Caption A to B?",
+    "Writing Style": "Has the {} strength {change_type} from Caption A to B?"
+  }
+}
