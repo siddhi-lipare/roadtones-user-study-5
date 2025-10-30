@@ -36,7 +36,7 @@
               "Rhetorical Question": "Very Strong"
             }
           },
-          "application": "Reaction Post"
+          "application": "Community Awareness Post"
         },
         {
           "caption_id": "video_1683698289500360704_caption3",
@@ -90,7 +90,7 @@
               "Metaphorical": "Very Strong"
             }
           },
-          "application": "Reaction Post"
+          "application": "Community Awareness Post"
         },
         {
           "caption_id": "video_1703606261588390352_caption3",
@@ -111,11 +111,11 @@
     }
   ],
   "part3_comparisons": [
-        {
+    {
       "comparison_id": "comp_015",
       "video_id": "video_1774263154723451187",
       "video_path": "media/v_1774263154723451187_QFMMJd8wYMEMl2r7.mp4",
-      "video_summary": "A daytime near-miss incident involving dangerous driving behavior was captured by a vehicle-mounted camera in Osaka, Japan. The key road event involved the camera vehicle and a right-turning vehicle. The right-turning vehicle made a sudden and dangerous right turn, nearly colliding with the camera vehicle. This maneuver was likely due to the driver of the right-turning vehicle not paying attention or being impatient, resulting in a failure to yield right-of-way. The incident could have been avoided if the right-turning vehicle had waited for a clear opportunity to turn and checked for oncoming traffic.",
+      "video_summary": "A daytime near-miss incident involving dangerous driving behavior was captured by a vehicle-mounted camera in Osaka, Japan. The key road event involved the camera vehicle and a right-turning vehicle. The right-turning vehicle made a sudden and dangerous right turn, nearly colliding with the camera vehicle. This maneuver was likely due to the driver of the right-turning vehicle not paying attention or being in a rush, resulting in a failure to yield right-of-way. The incident could have been avoided if the right-turning vehicle had waited for a clear opportunity to turn and checked for oncoming traffic.",
       "road_event_answer": "A vehicle makes a sudden, dangerous right turn, failing to yield and nearly colliding with the camera vehicle.",
       "distractor_answers": [
         "A motorcyclist performs high-speed wheelies on a busy road with other vehicles.",
@@ -180,7 +180,7 @@
       },
       "caption_A": "Captured at 3PM today. \ud83d\udea6 Watch out for surprises!",
       "caption_B": "It\u2019s a midday ballet of chaos\u2014scooter, sedan, and a stumble. Watch out, Wednesday! \ud83e\udd2f",
-      "application": "Reaction Post"
+      "application": "Community Awareness Post"
     },
     {
       "comparison_id": "comp_014",
@@ -218,7 +218,7 @@
         "A motorcyclist performs high-speed wheelies on a busy road with other vehicles.",
         "One driver abruptly cuts off another, causing an aggressive response from the second driver."
       ],
-      "caption_A": "My heart nearly stopped—a huge truck just decided to overtake in front of me, ignoring oncoming cars like it’s nothing! Seriously, never try this chaos. Stay patient. #RoadSafety",
+      "caption_A": "My heart nearly stopped\u2014a huge truck just decided to overtake in front of me, ignoring oncoming cars like it\u2019s nothing! Seriously, never try this chaos. Stay patient. #RoadSafety",
       "caption_B": "I just witnessed a massive truck making a reckless overtake right in front of me, nearly colliding with oncoming cars. Such impatience on the road is unbelievable. #RoadSafety",
       "field_to_change": {
         "tone": "Anxious"
@@ -236,7 +236,7 @@
         "Multiple vehicles run a red light and make illegal U-turns while pedestrians are crossing against their signal.",
         "A motorcyclist performs a stunt by standing on the seat of their moving motorcycle.",
         "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend."
-      ], 
+      ],
       "caption_A": "Reckless driving at its finest: BMW SUV nearly hits jogger in crosswalk, ignoring right-of-way \ud83d\udea8",
       "caption_B": "A gray BMW SUV nearly hits a jogger in the crosswalk while turning right on red. 🚶‍♂️🚗",
       "field_to_change": {
@@ -246,7 +246,7 @@
       "application": "Public Safety Awareness"
     },
     {
-      "comparison_id": "comp_010",
+      "change_id": "change_021",
       "video_id": "video_1797729718998798734",
       "video_path": "media/v_1797729718998798734_uJ4e_SauJ025C-gl.mp4",
       "video_summary": "During the daytime on a busy city street, likely in a European or Asian country, a surveillance camera captured an accident involving a motor scooter rider and a pedestrian. The motor scooter rider, wearing a pink sweater and a white helmet, approached a white sedan and opened its door. This action caused a pedestrian, wearing a black jacket and carrying a bag, to stumble and fall. Other road entities present included a yellow taxi and a parked silver scooter. After the pedestrian fell, the scooter rider dismounted and stood near the fallen person, appearing unconcerned, before continuing to navigate through traffic. The incident involved traffic rule violations including reckless driving, failure to yield to a pedestrian, and potentially leaving the scene of an accident without providing assistance.",
@@ -267,19 +267,19 @@
       },
       "caption_A": "Captured at 3PM today. \ud83d\udea6 Watch out for surprises!",
       "caption_B": "It\u2019s a midday ballet of chaos\u2014scooter, sedan, and a stumble. Watch out, Wednesday! \ud83e\udd2f",
-      "application": "Reaction Post"
+      "application": "Community Awareness Post"
     },
     {
       "change_id": "change_019",
-    "video_id": "video_1769884200818389269",
-    "video_path": "media/v_1769884200818389269_OM_cnGr9ZV6CKcY7.mp4",
-    "video_summary": "During daytime in clear, sunny conditions in Japan, a vehicle-mounted camera on a motorcycle captured an instance of unsafe driving behavior and a traffic violation. A car driver obstructed the path of the motorcycle and complained to the rider, despite the motorcycle legally using the road. The road was marked as one-way for other vehicles but included an exception for two-wheelers and bicycles, which the motorcycle rider was adhering to. The car driver's actions constituted obstruction of traffic and potentially failing to yield right of way to the legally present motorcycle.",
-    "road_event_answer": "A car driver obstructs and complains to a motorcyclist legally using a one-way street.",
-    "distractor_answers": [
-      "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend.",
-      "A compilation shows multiple traffic violations in Hyderabad, including improper U-turns, speeding, and red light jumping.",
-      "A scooter rider opens the door of a car, causing a passing pedestrian to fall."
-    ],
+      "video_id": "video_1769884200818389269",
+      "video_path": "media/v_1769884200818389269_OM_cnGr9ZV6CKcY7.mp4",
+      "video_summary": "During daytime in clear, sunny conditions in Japan, a vehicle-mounted camera on a motorcycle captured an instance of unsafe driving behavior and a traffic violation. A car driver obstructed the path of the motorcycle and complained to the rider, despite the motorcycle legally using the road. The road was marked as one-way for other vehicles but included an exception for two-wheelers and bicycles, which the motorcycle rider was adhering to. The car driver's actions constituted obstruction of traffic and potentially failing to yield right of way to the legally present motorcycle.",
+      "road_event_answer": "A car driver obstructs and complains to a motorcyclist legally using a one-way street.",
+      "distractor_answers": [
+        "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend.",
+        "A compilation shows multiple traffic violations in Hyderabad, including improper U-turns, speeding, and red light jumping.",
+        "A scooter rider opens the door of a car, causing a passing pedestrian to fall."
+      ],
       "caption_A": "Car driver blocks legally permitted motorcycle on a one-way street, committing clear traffic obstruction.",
       "caption_B": "A car driver aggressively blocked a motorcycle\u2019s legal route, blatantly violating right of way and safety.",
       "field_to_change": {
