@@ -13,7 +13,7 @@
       "captions": [
         {
           "caption_id": "video_1683698289500360704_caption1",
-          "text": "@blrcitytraffic Another reckless biker risking lives\u2014caught on cam weaving through heavy traffic, riding hands-free, and hiding their license plate. This dangerous behavior is unacceptable! \ud83d\udea8 Strict action is needed now.",
+          "text": "@blrcitytraffic Another reckless biker risking lives—caught on cam weaving through heavy traffic, riding hands-free, and hiding their license plate. This dangerous behavior is unacceptable! 🚨 Strict action is needed now.",
           "control_scores": {
             "tone": {
               "Angry": "Strong",
@@ -28,7 +28,7 @@
         },
         {
           "caption_id": "video_1683698289500360704_caption2",
-          "text": "How is this even real? \ud83e\udd14",
+          "text": "How is this even real? 🤔",
           "control_scores": {
             "tone": {
               "Bewildered": "Strong"
@@ -37,7 +37,7 @@
               "Rhetorical Question": "Very Strong"
             }
           },
-          "application": "Community Awareness Post"
+          "application": "Urban Traffic Observation"
         },
         {
           "caption_id": "video_1683698289500360704_caption3",
@@ -50,7 +50,7 @@
               "Factual": "Strong"
             }
           },
-          "application": "Law Enforcement Reporting"
+          "application": "Driver Behavior Monitoring"
         }
       ]
     },
@@ -80,7 +80,7 @@
         },
         {
           "caption_id": "video_1703606261588390352_caption2",
-          "text": "Hold your breath\u2014today\u2019s roads have their own drama.",
+          "text": "Hold your breath—today’s roads have their own drama.",
           "control_scores": {
             "tone": {
               "Dramatic": "Strong"
@@ -89,11 +89,11 @@
               "Metaphorical": "Very Strong"
             }
           },
-          "application": "Community Awareness Post"
+          "application": "Urban Traffic Observation"
         },
         {
           "caption_id": "video_1703606261588390352_caption3",
-          "text": "Just saw a biker tearing through Mumbai traffic pulling wild wheelies\u2014pure adrenaline! Can\u2019t believe the guts on display. @MumbaiPolice, what a scene! #RoadSafety \ud83d\udea8",
+          "text": "Just saw a biker tearing through Mumbai traffic pulling wild wheelies—pure adrenaline! Can’t believe the guts on display. @MumbaiPolice, what a scene! #RoadSafety 🚨",
           "control_scores": {
             "tone": {
               "Adventurous": "Strong",
