@@ -16,7 +16,8 @@
           "text": "@blrcitytraffic Another reckless biker risking lives\u2014caught on cam weaving through heavy traffic, riding hands-free, and hiding their license plate. This dangerous behavior is unacceptable! \ud83d\udea8 Strict action is needed now.",
           "control_scores": {
             "tone": {
-              "Angry": "Strong"
+              "Angry": "Strong",
+              "Assertive": "Strong"
             },
             "writing_style": {
               "Judgmental": "Very Strong",
@@ -43,8 +44,7 @@
           "text": "Motorcyclist seen weaving through Bangalore traffic, hands off controls, plate hidden. #RoadSafety",
           "control_scores": {
             "tone": {
-              "Critical": "Strong",
-              "Observant": "Strong"
+              "Critical": "Strong"
             },
             "writing_style": {
               "Factual": "Strong"
@@ -67,14 +67,13 @@
       "captions": [
         {
           "caption_id": "video_1703606261588390352_caption1",
-          "text": "@blrcitytraffic Another reckless biker risking lives\u2014caught on cam weaving through heavy traffic, riding hands-free, and hiding their license plate. This dangerous behavior is unacceptable! \ud83d\udea8 Strict action is needed now.",
+          "text": "On June 14, a motorcyclist was seen performing high-speed wheelies on a crowded road, blatantly disregarding safety. Such reckless stunts violate traffic laws and put countless lives at risk. Action against this behavior is urgent.",
           "control_scores": {
             "tone": {
-              "Angry": "Strong"
+              "Critical": "Strong"
             },
             "writing_style": {
-              "Judgmental": "Very Strong",
-              "CallToAction": "Strong"
+              "Judgmental": "Very Strong"
             }
           },
           "application": "Law Enforcement Reporting"
@@ -101,8 +100,7 @@
               "Exciting": "Strong"
             },
             "writing_style": {
-              "Conversational": "Strong",
-              "Exaggeration": "Strong"
+              "Conversational": "Strong"
             }
           },
           "application": "Law Enforcement Reporting"
@@ -127,8 +125,7 @@
       "field_to_change": {
         "tone": "Anxious"
       },
-      "change_type": "decreased",
-      "application": "Law Enforcement Reporting"
+      "change_type": "decreased"
     },
     {
       "change_id": "change_021",
@@ -141,22 +138,12 @@
         "Cyclists, pedestrians, and vehicles are all seen respecting traffic signals and lane markings.",
         "A compilation shows multiple traffic violations in Hyderabad, including improper U-turns, speeding, and red light jumping."
       ],
-      "control_scores": {
-        "tone": {
-          "Casual": "Strong",
-          "Playful": "Strong"
-        },
-        "writing_style": {
-          "Conversational": "Very Strong"
-        }
-      },
       "caption_A": "Captured at 3PM today. \ud83d\udea6 Watch out for surprises!",
       "caption_B": "It\u2019s a midday ballet of chaos\u2014scooter, sedan, and a stumble. Watch out, Wednesday! \ud83e\udd2f",
       "field_to_change": {
         "writing_style": "Metaphor"
       },
-      "change_type": "increased",
-      "application": "Community Awareness Post"
+      "change_type": "increased"
     },
     {
       "change_id": "change_019",
@@ -174,8 +161,7 @@
       "field_to_change": {
         "writing_style": "Angry"
       },
-      "change_type": "increased",
-      "application": "Public Safety Awareness"
+      "change_type": "increased"
     },
     {
       "change_id": "change_018",
@@ -193,8 +179,7 @@
       "field_to_change": {
         "writing_style": "Judgmental"
       },
-      "change_type": "decreased",
-      "application": "Public Safety Awareness"
+      "change_type": "decreased"
     }
   ],
     "part3_comparisons": [
@@ -218,8 +203,7 @@
         }
       },
       "caption_A": "I nearly got hit by a reckless right-turning driver who didn\u2019t even bother to yield. Some people never learn. #drivingfail",
-      "caption_B": "I nearly got hit by a reckless right-turning driver who didn\u2019t even bother to yield. Some people never learn. #drivingfail",
-      "application": "Law Enforcement Reporting"
+      "caption_B": "I nearly got hit by a reckless right-turning driver who didn\u2019t even bother to yield. Some people never learn. #drivingfail"
     },
     {
       "comparison_id": "comp_012",
@@ -242,8 +226,7 @@
         }
       },
       "caption_A": "Unsafe merges are just a suggestion now? #RoadSafety",
-      "caption_B": "Unsafe merges are just a suggestion now? #RoadSafety",
-      "application": "Law Enforcement Reporting"
+      "caption_B": "Unsafe merges are just a suggestion now? #RoadSafety"
     },
     {
       "comparison_id": "comp_014",
@@ -265,8 +248,7 @@
         }
       },
       "caption_A": "I just had a wild near-miss with a semi in Cornwall, Ontario! #trucking",
-      "caption_B": "I just had a wild near-miss with a semi in Cornwall, Ontario! #trucking",
-      "application": "Law Enforcement Reporting"
+      "caption_B": "I just had a wild near-miss with a semi in Cornwall, Ontario! #trucking"
     }
   ]
 }
