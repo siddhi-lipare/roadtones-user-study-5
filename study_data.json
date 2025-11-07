@@ -67,7 +67,7 @@
       "captions": [
         {
           "caption_id": "video_1703606261588390352_caption1",
-          "text": "On June 14, a motorcyclist was seen performing high-speed wheelies on a crowded road, blatantly disregarding safety. Such reckless stunts violate traffic laws and put countless lives at risk. Action against this behavior is urgent.",
+          "text": "A motorcyclist was seen performing high-speed wheelies on a crowded road, blatantly disregarding safety. Such reckless stunts violate traffic laws and put countless lives at risk. Action against this behavior is urgent.",
           "control_scores": {
             "tone": {
               "Critical": "Strong"
@@ -129,17 +129,17 @@
     },
     {
       "change_id": "change_021",
-      "video_id": "video_1797729718998798734",
-      "video_path": "media/v_1797729718998798734_uJ4e_SauJ025C-gl.mp4",
-      "video_summary": "During the daytime on a busy city street, likely in a European or Asian country, a surveillance camera captured an accident involving a motor scooter rider and a pedestrian. The motor scooter rider, wearing a pink sweater and a white helmet, approached a white sedan and opened its door. This action caused a pedestrian, wearing a black jacket and carrying a bag, to stumble and fall. Other road entities present included a yellow taxi and a parked silver scooter. After the pedestrian fell, the scooter rider dismounted and stood near the fallen person, appearing unconcerned, before continuing to navigate through traffic. The incident involved traffic rule violations including reckless driving, failure to yield to a pedestrian, and potentially leaving the scene of an accident without providing assistance.",
-      "road_event_answer": "A scooter rider opens the door of a car, causing a passing pedestrian to fall.",
+      "video_id": "video_1781029134916784442",
+      "video_path": "media/v_1781029134916784442_HwWaSpaenWbLCXo7.mp4",
+      "video_summary": "A vehicle-mounted camera captured a traffic violation at night in Brampton, Ontario, Canada. A car stopped at an intersection with traffic lights, positioning itself incorrectly beyond the designated stop line while the light was red. The road surface was wet during the event.",
+      "road_event_answer": "A car stops beyond the designated stop line at a red light.",
       "distractor_answers": [
-        "A high-speed car crash on a highway results in a severely damaged vehicle, multiple fatalities, and injuries.",
-        "Cyclists, pedestrians, and vehicles are all seen respecting traffic signals and lane markings.",
+        "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend.",
+        "A massive multi-vehicle pileup on a highway caused by heavy fog.",
         "A compilation shows multiple traffic violations in Hyderabad, including improper U-turns, speeding, and red light jumping."
       ],
-      "caption_A": "Captured at 3PM today. \ud83d\udea6 Watch out for surprises!",
-      "caption_B": "It\u2019s a midday ballet of chaos\u2014scooter, sedan, and a stumble. Watch out, Wednesday! \ud83e\udd2f",
+      "caption_A": "Brampton nights really bringing out the creative drivers 😂. Wet roads and wild stops! #Brampton",
+      "caption_B": "Like a ship adrift, this car sailed past the stop line in Brampton \ud83d\udea6\ud83c\udf27\ufe0f #Brampton",
       "field_to_change": {
         "writing_style": "Metaphorical"
       },
@@ -185,25 +185,25 @@
     "part3_comparisons": [
     {
       "comparison_id": "comp_015",
-      "video_id": "video_1774263154723451187",
-      "video_path": "media/v_1774263154723451187_QFMMJd8wYMEMl2r7.mp4",
-      "video_summary": "A daytime near-miss incident involving dangerous driving behavior was captured by a vehicle-mounted camera in Osaka, Japan. The key road event involved the camera vehicle and a right-turning vehicle. The right-turning vehicle made a sudden and dangerous right turn, nearly colliding with the camera vehicle. This maneuver was likely due to the driver of the right-turning vehicle not paying attention or being in a rush, resulting in a failure to yield right-of-way. The incident could have been avoided if the right-turning vehicle had waited for a clear opportunity to turn and checked for oncoming traffic.",
-      "road_event_answer": "A vehicle makes a sudden, dangerous right turn, failing to yield and nearly colliding with the camera vehicle.",
+      "video_id": "video_1746094819381035459",
+      "video_path": "media/v_1746094819381035459_eTAK76kBfZm7748G.mp4",
+      "video_summary": "A severe accident involving reckless driving and a traffic violation occurred during the daytime in Palghar, on the Boisar-Palghar road in Maharashtra, India. Captured by a CCTV camera, the key road event involved an auto-rickshaw and a pickup truck. The auto-rickshaw driver made a sudden U-turn without checking for oncoming traffic, leading to a collision with the pickup truck that was driving on the road. Traffic rule violations associated with this event include making an unsafe U-turn, failure to check for oncoming traffic, and reckless driving by the auto-rickshaw driver.",
+      "road_event_answer": "A reckless auto-rickshaw made an unsafe U-turn, colliding with a pickup truck in Palghar, Maharashtra.",
       "distractor_answers": [
-        "A motorcyclist performs high-speed wheelies on a busy road with other vehicles.",
-        "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend.",
-        "A driver on a highway at night has a near-miss after reacting quickly to an unexpected obstacle."
+        "Multiple vehicles run a red light and make illegal U-turns while pedestrians are crossing against their signal.",
+        "A motorcyclist performs a stunt by standing on the seat of their moving motorcycle.",
+        "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend."
       ],
       "control_scores": {
         "tone": {
-          "Critical": "Strong"
+          "Serious": "Strong"
         },
         "writing_style": {
-          "Judgmental": "Very Strong"
+          "Factual": "Very Strong"
         }
       },
-      "caption_A": "I nearly got hit by a reckless right-turning driver who didn\u2019t even bother to yield. Some people never learn. #drivingfail",
-      "caption_B": "I can\u2019t believe how reckless some drivers are\u2014just saw a car blatantly overtake from the wrong side. Dangerous stuff! #RoadSafety"
+      "caption_A": "A serious accident on Boisar-Palghar road in Maharashtra as an auto-rickshaw’s sudden U-turn leads to collision.",
+      "caption_B": "A fatal accident in India involved a speeding truck colliding with a motorcycle carrying two people."
     },
     {
       "comparison_id": "comp_012",
