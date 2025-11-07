@@ -184,28 +184,6 @@
   ],
     "part3_comparisons": [
     {
-      "comparison_id": "comp_015",
-      "video_id": "video_1746094819381035459",
-      "video_path": "media/v_1746094819381035459_eTAK76kBfZm7748G.mp4",
-      "video_summary": "A severe accident involving reckless driving and a traffic violation occurred during the daytime in Palghar, on the Boisar-Palghar road in Maharashtra, India. Captured by a CCTV camera, the key road event involved an auto-rickshaw and a pickup truck. The auto-rickshaw driver made a sudden U-turn without checking for oncoming traffic, leading to a collision with the pickup truck that was driving on the road. Traffic rule violations associated with this event include making an unsafe U-turn, failure to check for oncoming traffic, and reckless driving by the auto-rickshaw driver.",
-      "road_event_answer": "A reckless auto-rickshaw made an unsafe U-turn, colliding with a pickup truck in Palghar, Maharashtra.",
-      "distractor_answers": [
-        "Multiple vehicles run a red light and make illegal U-turns while pedestrians are crossing against their signal.",
-        "A motorcyclist performs a stunt by standing on the seat of their moving motorcycle.",
-        "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend."
-      ],
-      "control_scores": {
-        "tone": {
-          "Serious": "Strong"
-        },
-        "writing_style": {
-          "Factual": "Very Strong"
-        }
-      },
-      "caption_A": "A serious accident on Boisar-Palghar road in Maharashtra as an auto-rickshaw’s sudden U-turn leads to collision.",
-      "caption_B": "A fatal accident in India involved a speeding truck colliding with a motorcycle carrying two people."
-    },
-    {
       "comparison_id": "comp_012",
       "video_id": "video_1534754660984033282",
       "video_path": "media/v_1534754660984033282_pcAqGw9_WhY6vm4e.mp4",
@@ -227,6 +205,28 @@
       },
       "caption_A": "Unsafe merges are just a suggestion now? #RoadSafety",
       "caption_B": "Did that driver really think this was smart? #dangerous"
+    },
+    {
+      "comparison_id": "comp_015",
+      "video_id": "video_1746094819381035459",
+      "video_path": "media/v_1746094819381035459_eTAK76kBfZm7748G.mp4",
+      "video_summary": "A severe accident involving reckless driving and a traffic violation occurred during the daytime in Palghar, on the Boisar-Palghar road in Maharashtra, India. Captured by a CCTV camera, the key road event involved an auto-rickshaw and a pickup truck. The auto-rickshaw driver made a sudden U-turn without checking for oncoming traffic, leading to a collision with the pickup truck that was driving on the road. Traffic rule violations associated with this event include making an unsafe U-turn, failure to check for oncoming traffic, and reckless driving by the auto-rickshaw driver.",
+      "road_event_answer": "A reckless auto-rickshaw made an unsafe U-turn, colliding with a pickup truck in Palghar, Maharashtra.",
+      "distractor_answers": [
+        "Multiple vehicles run a red light and make illegal U-turns while pedestrians are crossing against their signal.",
+        "A motorcyclist performs a stunt by standing on the seat of their moving motorcycle.",
+        "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend."
+      ],
+      "control_scores": {
+        "tone": {
+          "Serious": "Strong"
+        },
+        "writing_style": {
+          "Factual": "Very Strong"
+        }
+      },
+      "caption_A": "A serious accident on Boisar-Palghar road in Maharashtra as an auto-rickshaw’s sudden U-turn leads to collision.",
+      "caption_B": "A fatal accident in India involved a speeding truck colliding with a motorcycle carrying two people."
     },
     {
       "comparison_id": "comp_014",
